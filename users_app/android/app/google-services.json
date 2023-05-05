@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "921811498085",
+    "firebase_url": "https://myride-app-c7f5e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "myride-app-c7f5e",
+    "storage_bucket": "myride-app-c7f5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921811498085:android:fe8abac7d0075eefc7c28c",
+        "android_client_info": {
+          "package_name": "com.muhammadnazran.driversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921811498085-rlh83g943j6l09vcljc6qatrhvd997e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA66kVhBgYoR-3v8DF-TkD8NW2z4LFhw3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921811498085-rlh83g943j6l09vcljc6qatrhvd997e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921811498085:android:883d829091c9671cc7c28c",
+        "android_client_info": {
+          "package_name": "com.muhammadnazran.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921811498085-rlh83g943j6l09vcljc6qatrhvd997e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA66kVhBgYoR-3v8DF-TkD8NW2z4LFhw3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921811498085-rlh83g943j6l09vcljc6qatrhvd997e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
