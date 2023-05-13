@@ -10,5 +10,5 @@ This module is created for the purpose of car positioning. Within a three-second
 2.	Car Position Mapping Module <br/>
 Car mapping module is developed to show users about the car position in a map. This module uses Google Maps API to load the map file.
 3.	Authentication Module <br/>
-This module is purposed for adding security measure in the mobile application. Users need to register and login to their account to use the app.
+This module is purposed for adding security measure in the mobile application. Users need to register and login to their account to use the app.<br/>
 ![image](https://github.com/MNazran/MyRide_FYP/assets/121558403/db038223-aac2-41b6-86ae-24cf39ab1390)
