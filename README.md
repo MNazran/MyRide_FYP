@@ -12,3 +12,4 @@ Car mapping module is developed to show users about the car position in a map. T
 3.	Authentication Module <br/>
 This module is purposed for adding security measure in the mobile application. Users need to register and login to their account to use the app.<br/><br/>
 ![image](https://github.com/MNazran/MyRide_FYP/assets/121558403/db038223-aac2-41b6-86ae-24cf39ab1390)
+<a href="url"><img src="[http://url.to/image.png](https://github.com/MNazran/MyRide_FYP/assets/121558403/db038223-aac2-41b6-86ae-24cf39ab1390)" align="left" height="48" width="48" ></a>
