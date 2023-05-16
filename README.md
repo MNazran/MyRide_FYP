@@ -15,6 +15,15 @@ This module is purposed for adding security measure in the mobile application. U
 
 <img src="https://github.com/MNazran/MyRide_FYP/assets/121558403/db038223-aac2-41b6-86ae-24cf39ab1390" alt="Image" width="500">
 
+<div style="text-align:center">
+    <img src="https://github.com/MNazran/MyRide_FYP/assets/121558403/db038223-aac2-41b6-86ae-24cf39ab1390" alt="Image" width="300">
+</div>
+
+<p align="center">
+    <img src="https://github.com/MNazran/MyRide_FYP/assets/121558403/db038223-aac2-41b6-86ae-24cf39ab1390" alt="Image" width="300">
+</p>
+
+
 
 
 
