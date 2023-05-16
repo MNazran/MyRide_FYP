@@ -16,6 +16,7 @@ This module is purposed for adding security measure in the mobile application. U
     <img src="https://github.com/MNazran/MyRide_FYP/assets/121558403/db038223-aac2-41b6-86ae-24cf39ab1390" alt="Image" width="550">
 </p>
 
+This use case diagram consists of two actors which are the user and driver. From the diagram above, the app required user and driver to have an account before able to perform any application features. Therefore, user and driver will have separate register pages where driver has additional pages to register their car information. User able to enter pickup location and destination, request ride and rate driver, while driver can accept or decline request, view profile, rating and earning.
 
 
 
