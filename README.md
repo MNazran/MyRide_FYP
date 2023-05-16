@@ -13,7 +13,8 @@ Car mapping module is developed to show users about the car position in a map. T
 This module is purposed for adding security measure in the mobile application. Users need to register and login to their account to use the app.<br/><br/>
 ![image](https://github.com/MNazran/MyRide_FYP/assets/121558403/db038223-aac2-41b6-86ae-24cf39ab1390)
 
-<img src="[path/to/image.jpg](https://github.com/MNazran/MyRide_FYP/assets/121558403/db038223-aac2-41b6-86ae-24cf39ab1390)" alt="Image" width="300" height="200">
+<img src="https://github.com/MNazran/MyRide_FYP/assets/121558403/db038223-aac2-41b6-86ae-24cf39ab1390" alt="Image" width="300">
+
 
 
 
