@@ -1,1 +1,1 @@
-
+This is the User App for the MyRide mobile application developed using Flutter. The MyRide User App allows users to easily book a car through their mobile devices and provides a real-time platform for efficient communication between drivers and users.
