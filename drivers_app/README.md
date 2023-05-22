@@ -3,4 +3,7 @@ This is the Driver App for the MyRide mobile application developed using Flutter
 
 Here are some key features of the MyRide Driver App:<br/>
 1. Registration and Profile Management: Drivers can create an account and complete their profile.<br/>
-2. Ride Requests: The app allows drivers to receive ride requests from passengers who are using the MyRide user app. Drivers can accept or decline requests based on their availability and location.
+
+2. Ride Requests: The app allows drivers to receive ride requests from passengers who are using the MyRide user app. Drivers can accept or decline requests based on their availability and location.<br/>
+
+3. Navigation and Directions: Once a ride request is accepted, the app provides built-in navigation and turn-by-turn directions to help drivers reach the pick-up location and the destination efficiently.
