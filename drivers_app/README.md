@@ -9,5 +9,5 @@ Here are some key features of the MyRide Driver App:<br/>
 3. Navigation and Directions: Once a ride request is accepted, the app provides built-in navigation and turn-by-turn directions to help drivers reach the pick-up location and the destination efficiently.
 
 <p align="center">
-  <img src="https://github.com/MNazran/MyRide_FYP/assets/121558403/a1b34be3-9985-440d-9a12-87d7a18d7bcc" alt="Image" width="550">
+  <img src="https://github.com/MNazran/MyRide_FYP/assets/121558403/a1b34be3-9985-440d-9a12-87d7a18d7bcc" alt="Image" width="250">
 </p>
