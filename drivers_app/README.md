@@ -7,3 +7,5 @@ Here are some key features of the MyRide Driver App:<br/>
 2. Ride Requests: The app allows drivers to receive ride requests from passengers who are using the MyRide user app. Drivers can accept or decline requests based on their availability and location.<br/>
 
 3. Navigation and Directions: Once a ride request is accepted, the app provides built-in navigation and turn-by-turn directions to help drivers reach the pick-up location and the destination efficiently.
+
+![image](https://github.com/MNazran/MyRide_FYP/assets/121558403/a1b34be3-9985-440d-9a12-87d7a18d7bcc)
