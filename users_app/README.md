@@ -5,4 +5,4 @@ This is the User App for the MyRide mobile application developed using Flutter. 
 Here are some key features of the MyRide User App:
 
 1. Registration and Profile Creation: Passengers can create an account by providing their personal information and contact details.
-2. 
+2. Ride Booking: The app allows passengers to book rides by entering their pick-up and drop-off locations. They can choose from various vehicle options available.
