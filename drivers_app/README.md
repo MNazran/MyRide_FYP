@@ -13,7 +13,10 @@ Here are some key features of the MyRide Driver App:<br/>
 <p align="center">
   <img src="https://github.com/MNazran/MyRide_FYP/assets/121558403/a1b34be3-9985-440d-9a12-87d7a18d7bcc" alt="Image" width="250">
   <img src="https://github.com/MNazran/MyRide_FYP/assets/121558403/ed38e848-5d28-435c-9916-44832ccf1d42" alt="Image" width="250">
+  <img src="https://github.com/MNazran/MyRide_FYP/assets/121558403/2bfaaeb6-c0f4-491b-a8c8-97240edb8bfb" alt="Image" width="250">
 </p>
+
+
 
 
 
