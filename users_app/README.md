@@ -13,4 +13,5 @@ Here are some key features of the MyRide User App:
 
 <p align="center">
   <img src="https://github.com/MNazran/MyRide_FYP/assets/121558403/eec0d289-f3f2-40c6-aeb0-e55468122b7c" alt="Image" width="250">
+  <img src= "https://github.com/MNazran/MyRide_FYP/assets/121558403/255415db-465d-407c-9b35-ae4fe2b47b3a" alt="Image" width="250">
 </p>
