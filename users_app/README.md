@@ -13,8 +13,8 @@ Here are some key features of the MyRide User App:
 
 <p align="center">
   <img src="https://github.com/MNazran/MyRide_FYP/assets/121558403/74730ad3-b75f-4876-b0a5-1a20195d10f0" alt="Image" width="250">
-  <img src="https://github.com/MNazran/MyRide_FYP/assets/121558403/9d4e85a3-75a5-4ee3-a2ec-fed537f08ef1" alt="Image" width="250">
   <img src="https://github.com/MNazran/MyRide_FYP/assets/121558403/eec0d289-f3f2-40c6-aeb0-e55468122b7c" alt="Image" width="250">
+  <img src="https://github.com/MNazran/MyRide_FYP/assets/121558403/9d4e85a3-75a5-4ee3-a2ec-fed537f08ef1" alt="Image" width="250">
 </p>
 
 
